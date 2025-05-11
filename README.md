@@ -1,8 +1,5 @@
-What to do first after install
+Tools 
 
-#########
-# Tools #
-#########
 #Screenshot
 1. Grim
 2. Slurp
