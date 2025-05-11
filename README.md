@@ -1,0 +1,1 @@
+# hyprland-linuxminimal-myconfig
